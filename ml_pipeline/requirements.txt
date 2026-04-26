@@ -1,0 +1,12 @@
+torch
+diffusers
+transformers
+accelerate
+peft
+opencv-python
+pillow
+vtracer
+controlnet-aux
+safetensors
+albumentations
+tqdm
